@@ -77,6 +77,7 @@ button:hover {
 
 /* estiliza o parágrafo onde a mensagem do JavaScript aparecerá */
 #mensagem {
+    background-color: #ee1414; /* escurece a cor do botão ao passar o mouse */
     margin-top: 15px; /* adiciona espaço acima da mensagem */
     font-weight: bold; /* deixa o texto em negrito */
     color: #ee1414; /* define uma cor azul para a mensagem */
